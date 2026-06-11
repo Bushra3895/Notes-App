@@ -21,9 +21,9 @@ A clean and minimal Notes application built with **React** and **Vite** — allo
 
 | Technology | Usage |
 |------------|-------|
-| React.js   | Frontend UI |
-| Vite       | Build Tool |
-| CSS3       | Styling |
+| React.js | Frontend UI |
+| Vite | Build Tool |
+| CSS3 | Styling |
 | LocalStorage | Data Persistence |
 
 ---
@@ -37,16 +37,15 @@ A clean and minimal Notes application built with **React** and **Vite** — allo
 ### Installation
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/Bushra3895/notes-app.git
+### 1. Clone the repository
+git clone https://github.com/Bushra3895/Notes-App.git
 
-# 2. Navigate to project folder
-cd notes-app
-
-# 3. Install dependencies
+### 2. Navigate to project folder
+cd Notes-App
+### 3. Install dependencies
 npm install
 
-# 4. Run the development server
+### 4. Run the development server
 npm run dev
 ```
 
@@ -71,3 +70,33 @@ This project is deployed on **Vercel**.
 ---
 
 ## 📁 Project Structure
+
+```
+Notes-App/
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── App.css
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+└── vite.config.js
+```
+
+---
+
+## 🙋‍♀️ Author
+
+**Bushra** — [@Bushra3895](https://github.com/Bushra3895)
+
+⭐ Agar aapko yeh project pasand aaya toh **star** zaroor dena!
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
