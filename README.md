@@ -37,15 +37,16 @@ A clean and minimal Notes application built with **React** and **Vite** — allo
 ### Installation
 
 ```bash
-###Clone the repository
+# 1. Clone the repository
 git clone https://github.com/Bushra3895/Notes-App.git
 
-### 2. Navigate to project folder
+# 2. Navigate to project folder
 cd Notes-App
-### 3. Install dependencies
+
+# 3. Install dependencies
 npm install
 
-### 4. Run the development server
+# 4. Run the development server
 npm run dev
 ```
 
