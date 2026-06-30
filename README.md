@@ -25,7 +25,30 @@ A clean and minimal Notes application built with **React** and **Vite** — allo
 | Vite | Build Tool |
 | CSS3 | Styling |
 | LocalStorage | Data Persistence |
+---
 
+## 📁 Project Structure
+
+```
+Notes-App/
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── App.css
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+└── vite.config.js
+```
+
+---
+---
+## Screenshot
+![Notes App Screenshot](Notes-App.PNG)
 ---
 
 ## 🚀 Getting Started
@@ -68,27 +91,6 @@ This project is deployed on **Vercel**.
 
 🔗 Live URL: [https://notes-app-kappa-lime.vercel.app/](https://notes-app-kappa-lime.vercel.app/)
 
----
-
-## 📁 Project Structure
-
-```
-Notes-App/
-├── public/
-├── src/
-│   ├── components/
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── App.css
-├── .gitignore
-├── eslint.config.js
-├── index.html
-├── package.json
-├── package-lock.json
-└── vite.config.js
-```
-
----
 
 ## 🙋‍♀️ Author
 
